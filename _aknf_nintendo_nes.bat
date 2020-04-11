@@ -17,7 +17,7 @@ copy "Astyanax (USA).zip" _aknf
 copy "Bad Dudes (USA).zip" _aknf
 copy "Bad News Baseball (USA).zip" _aknf
 copy "Balloon Fight (USA).zip" _aknf
-copy "Bananan Ouji no Daibouken (Japan).zip" _aknf
+copy "Banana Prince (Germany).zip" _aknf
 copy "Baseball Stars (USA).zip" _aknf
 copy "Baseball Stars II (USA).zip" _aknf
 copy "Batman - Return of the Joker (USA).zip" _aknf
