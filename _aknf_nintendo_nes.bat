@@ -112,7 +112,7 @@ copy "G.I. Joe - A Real American Hero (USA).zip" _aknf
 copy "G.I. Joe - The Atlantis Factor (USA).zip" _aknf
 copy "Galaga - Demons of Death (USA).zip" _aknf
 copy "Ganbare Goemon 2 (Japan).zip" _aknf
-copy "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan) (Rev 1).zip" _aknf
+copy "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan).zip" _aknf
 copy "Ganbare Goemon Gaiden 2 - Tenka no Zaihou (Japan).zip" _aknf
 copy "Ganbare Goemon! - Karakuri Douchuu (Japan).zip" _aknf
 copy "Gargoyle's Quest II (USA).zip" _aknf
