@@ -97,9 +97,9 @@ copy "First Samurai (USA).zip" _aknf
 copy "Flashback - The Quest for Identity (USA) (En,Fr,De).zip" _aknf
 copy "Front Mission (Japan) (Rev 1).zip" _aknf
 copy "Front Mission Series - Gun Hazard (Japan).zip" _aknf
-copy "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP).zip" _aknf
+copy "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan).zip" _aknf
 copy "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu (Japan).zip" _aknf
-copy "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan) (Rev 2).zip" _aknf
+copy "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Japan).zip" _aknf
 copy "Gemfire (USA).zip" _aknf
 copy "Ghost Chaser Densei (Japan).zip" _aknf
 copy "Ghoul Patrol (USA).zip" _aknf
