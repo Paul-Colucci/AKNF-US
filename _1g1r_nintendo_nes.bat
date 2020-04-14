@@ -457,7 +457,7 @@ copy "Field Combat (Japan).zip" _1g1r
 copy "Fighting Road (Japan).zip" _1g1r
 copy "Final Fantasy (USA).zip" _1g1r
 copy "Final Fantasy I, II (Japan).zip" _1g1r
-copy "Final Fantasy II (USA) (Proto).zip" _1g1r
+copy "Final Fantasy II (Japan).zip" _1g1r
 copy "Final Fantasy III (Japan).zip" _1g1r
 copy "Final Lap (Japan).zip" _1g1r
 copy "Fire 'n Ice (USA).zip" _1g1r
