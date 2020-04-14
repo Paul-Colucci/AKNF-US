@@ -251,7 +251,6 @@ copy "Spark World (Japan).zip" _aknf
 copy "Sparkster (USA).zip" _aknf
 copy "Spider-Man - Venom - Maximum Carnage (USA).zip" _aknf
 copy "Spindizzy Worlds (USA).zip" _aknf
-copy "Spot Goes to Hollywood (USA) (Proto) (1995-08-05).zip" _aknf
 copy "Star Fox (USA) (Rev 2).zip" _aknf
 copy "Star Fox 2 (USA).zip" _aknf
 copy "Star Ocean (Japan).zip" _aknf
