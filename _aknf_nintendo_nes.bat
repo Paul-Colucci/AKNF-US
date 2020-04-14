@@ -203,7 +203,7 @@ copy "Metroid (USA).zip" _aknf
 copy "Micro Machines (USA) (Unl).zip" _aknf
 copy "Mighty Bomb Jack (USA).zip" _aknf
 copy "Mighty Final Fight (USA).zip" _aknf
-copy "Mike Tyson's Punch-Out!! (Japan, USA) (Rev A).zip" _aknf
+copy "Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1).zip" _aknf
 copy "Mitsume ga Tooru (Japan).zip" _aknf
 copy "Monopoly (USA).zip" _aknf
 copy "Monster in My Pocket (USA).zip" _aknf
@@ -300,7 +300,7 @@ copy "Strider (USA).zip" _aknf
 copy "Summer Carnival '92 - Recca (Japan).zip" _aknf
 copy "Super C (USA).zip" _aknf
 copy "Super Dodge Ball (USA).zip" _aknf
-copy "Super Mario Bros. (World).zip" _aknf
+copy "Super Mario Bros. (World) (HVC-SM).zip" _aknf
 copy "Super Mario Bros. 2 (USA) (Rev 1).zip" _aknf
 copy "Super Mario Bros. 3 (USA) (Rev 1).zip" _aknf
 copy "Super Spike V'Ball (USA).zip" _aknf
