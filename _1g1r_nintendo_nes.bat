@@ -1099,6 +1099,7 @@ copy "Rad Racer (USA).zip" _1g1r
 copy "Rad Racer II (USA).zip" _1g1r
 copy "Rad Racket - Deluxe Tennis II (USA) (Unl).zip" _1g1r
 copy "Radac Tailor-Made (Japan).zip" _1g1r
+copy "Radia Senki - Reimei Hen (Japan).zip" _1g1r
 copy "Raid 2020 (USA) (Unl).zip" _1g1r
 copy "Raid on Bungeling Bay (USA).zip" _1g1r
 copy "Rainbow Islands (USA).zip" _1g1r
