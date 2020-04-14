@@ -503,7 +503,7 @@ copy "Game Designer Yousei Soft - Dezaemon (Japan).zip" _1g1r
 copy "Game Genie (USA) (Unl).zip" _1g1r
 copy "Game Party (Japan).zip" _1g1r
 copy "Ganbare Goemon 2 (Japan).zip" _1g1r
-copy "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan) (Rev 1).zip" _1g1r
+copy "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan).zip" _1g1r
 copy "Ganbare Goemon Gaiden 2 - Tenka no Zaihou (Japan).zip" _1g1r
 copy "Ganbare Goemon! - Karakuri Douchuu (Japan).zip" _1g1r
 copy "Ganbare Pennant Race! (Japan).zip" _1g1r
