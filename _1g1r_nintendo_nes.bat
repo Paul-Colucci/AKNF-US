@@ -1,14 +1,10 @@
 md _1g1r
 copy "'89 Dennou Kyuusei Uranai (Japan).zip" _1g1r
 copy "10-Yard Fight (USA, Europe).zip" _1g1r
-copy "110 in 1 (Asia) (Unl) (Pirate).zip" _1g1r
 copy "1942 (Japan, USA).zip" _1g1r
 copy "1943 - The Battle of Midway (USA).zip" _1g1r
-copy "1991 Du Ma Racing (Asia) (Unl).zip" _1g1r
 copy "1999 - Hore, Mitakotoka! Seikimatsu (Japan).zip" _1g1r
-copy "3 in 1 Supergun (Asia) (Unl).zip" _1g1r
 copy "3-D WorldRunner (USA).zip" _1g1r
-copy "3D Block (Asia) (Hwang Shinwei) (Unl).zip" _1g1r
 copy "4 Nin Uchi Mahjong (Japan) (Rev 1).zip" _1g1r
 copy "720 Degrees (USA).zip" _1g1r
 copy "8 Eyes (USA).zip" _1g1r
@@ -16,7 +12,6 @@ copy "A Ressha de Ikou (Japan).zip" _1g1r
 copy "Aa Yakyuu Jinsei Icchokusen (Japan).zip" _1g1r
 copy "Abadox - The Deadly Inner War (USA).zip" _1g1r
 copy "Action 52 (USA) (Rev A) (Unl).zip" _1g1r
-copy "Adan y Eva (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Addams Family, The (USA).zip" _1g1r
 copy "Addams Family, The - Pugsley's Scavenger Hunt (USA).zip" _1g1r
 copy "Advanced Dungeons & Dragons - Dragons of Flame (Japan).zip" _1g1r
@@ -59,6 +54,7 @@ copy "All-Pro Basketball (USA).zip" _1g1r
 copy "Alpha Mission (USA).zip" _1g1r
 copy "Amagon (USA).zip" _1g1r
 copy "America Daitouryou Senkyo (Japan).zip" _1g1r
+copy "America Oudan Ultra Quiz - Shijou Saidai no Tatakai (Japan) (Rev 1).zip" _1g1r
 copy "American Dream (Japan).zip" _1g1r
 copy "American Gladiators (USA).zip" _1g1r
 copy "Ankoku Shinwa - Yamato Takeru Densetsu (Japan).zip" _1g1r
@@ -86,11 +82,8 @@ copy "Atlantis no Nazo (Japan).zip" _1g1r
 copy "Attack Animal Gakuen (Japan).zip" _1g1r
 copy "Attack of the Killer Tomatoes (USA).zip" _1g1r
 copy "Aussie Rules Footy (Australia).zip" _1g1r
-copy "Auto-Upturn (Asia) (PAL) (Unl).zip" _1g1r
 copy "AV Hanafuda Club (Japan) (Unl).zip" _1g1r
-copy "AV Kyuukyoku Mahjong 2 (Asia) (Ka Sheng) (Unl).zip" _1g1r
 copy "AV Mahjong Club (Japan) (Unl).zip" _1g1r
-copy "AV Mei Shao Nv Zhan Shi (Asia) (Unl).zip" _1g1r
 copy "AV Pachi-Slot (Japan) (Unl).zip" _1g1r
 copy "AV Super Real Pachinko (Japan) (Unl).zip" _1g1r
 copy "B-Wings (Japan).zip" _1g1r
@@ -111,10 +104,9 @@ copy "Ballblazer (Japan).zip" _1g1r
 copy "Balloon Fight (USA).zip" _1g1r
 copy "Baltron (Japan).zip" _1g1r
 copy "Banana (Japan).zip" _1g1r
-copy "Bananan Ouji no Daibouken (Japan).zip" _1g1r
+copy "Banana Prince (Germany).zip" _1g1r
 copy "Bandai Golf - Challenge Pebble Beach (USA).zip" _1g1r
 copy "Bandit Kings of Ancient China (USA).zip" _1g1r
-copy "Bao Xiao San Guo (Asia) (Unl).zip" _1g1r
 copy "Barbie (USA) (Rev 1).zip" _1g1r
 copy "Barcode World (Japan).zip" _1g1r
 copy "Bard's Tale II, The - The Destiny Knight (Japan).zip" _1g1r
@@ -144,7 +136,6 @@ copy "BattleCity (Japan).zip" _1g1r
 copy "Battleship (USA).zip" _1g1r
 copy "Battletoads (USA).zip" _1g1r
 copy "Battletoads-Double Dragon (USA).zip" _1g1r
-copy "BB Car (Asia) (Unl).zip" _1g1r
 copy "Be-Bop-Highschool - Koukousei Gokuraku Densetsu (Japan).zip" _1g1r
 copy "Beauty and the Beast (Europe).zip" _1g1r
 copy "Bee 52 (USA) (Unl).zip" _1g1r
@@ -164,7 +155,6 @@ copy "Bikkuriman World - Gekitou Sei Senshi (Japan).zip" _1g1r
 copy "Bill & Ted's Excellent Video Game Adventure (USA).zip" _1g1r
 copy "Bill Elliott's NASCAR Challenge (USA).zip" _1g1r
 copy "Binary Land (Japan).zip" _1g1r
-copy "Bingo 75 (Asia) (Unl).zip" _1g1r
 copy "Bio Force Ape (Japan) (En) (Proto).zip" _1g1r
 copy "Bio Miracle Bokutte Upa (Japan).zip" _1g1r
 copy "Bionic Commando (USA).zip" _1g1r
@@ -177,7 +167,6 @@ copy "Blaster Master (USA).zip" _1g1r
 copy "Block Out (USA) (Proto).zip" _1g1r
 copy "Blodia Land - Puzzle Quest (Japan).zip" _1g1r
 copy "Bloody Warriors - Shan-Go no Gyakushuu (Japan).zip" _1g1r
-copy "Bloque Magico, El (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Blue Marlin, The (USA).zip" _1g1r
 copy "Blues Brothers, The (USA).zip" _1g1r
 copy "Bo Jackson Baseball (USA).zip" _1g1r
@@ -186,21 +175,16 @@ copy "Bomberman (USA).zip" _1g1r
 copy "Bomberman II (USA).zip" _1g1r
 copy "Bonk's Adventure (USA).zip" _1g1r
 copy "Booby Kids (Japan).zip" _1g1r
-copy "Booky Man (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Boulder Dash (USA).zip" _1g1r
 copy "Bowling (USA) (Proto).zip" _1g1r
 copy "Bram Stoker's Dracula (USA).zip" _1g1r
 copy "Break Time - The National Pool Tour (USA).zip" _1g1r
 copy "BreakThru (USA).zip" _1g1r
-copy "Brilliant Com Cocoma Pack 1 (Korea) (Unl).zip" _1g1r
-copy "Brilliant Com Cocoma Pack 2 (Korea) (Unl).zip" _1g1r
-copy "Brush Roller (Asia) (Unl).zip" _1g1r
 copy "Bubble Bobble (USA).zip" _1g1r
 copy "Bubble Bobble Part 2 (USA).zip" _1g1r
 copy "Bucky O'Hare (USA).zip" _1g1r
 copy "Bugs Bunny Birthday Blowout, The (USA).zip" _1g1r
 copy "Bugs Bunny Crazy Castle, The (USA).zip" _1g1r
-copy "BugTris (Korea) (Unl).zip" _1g1r
 copy "Bump 'n' Jump (USA).zip" _1g1r
 copy "Burai Fighter (USA).zip" _1g1r
 copy "BurgerTime (USA).zip" _1g1r
@@ -212,6 +196,7 @@ copy "Caesars Palace (USA).zip" _1g1r
 copy "California Games (USA).zip" _1g1r
 copy "California Raisins - The Grape Escape (USA) (Proto 2).zip" _1g1r
 copy "Caltron - 6 in 1 (USA) (Unl).zip" _1g1r
+copy "Caltron - 9 in 1 (USA) (Proto) (Unl).zip" _1g1r
 copy "Capcom's Gold Medal Challenge '92 (USA).zip" _1g1r
 copy "Captain America and the Avengers (USA).zip" _1g1r
 copy "Captain Comic - The Adventure (USA) (Unl).zip" _1g1r
@@ -242,15 +227,12 @@ copy "Championship Pool (USA).zip" _1g1r
 copy "Championship Rally (Europe).zip" _1g1r
 copy "Chaos World (Japan).zip" _1g1r
 copy "Cheetahmen II (USA) (Unl).zip" _1g1r
-copy "Chess Academy (Asia) (NTSC) (Unl).zip" _1g1r
 copy "Chessmaster, The (USA) (Rev 1).zip" _1g1r
 copy "Chester Field - Ankoku Shin e no Chousen (Japan).zip" _1g1r
+copy "Chevaliers du Zodiaque, Les - La Legende d'Or (France).zip" _1g1r
 copy "Chibi Maruko-chan - Uki Uki Shopping (Japan).zip" _1g1r
 copy "Chiisana Obake - Acchi Socchi Kocchi (Japan).zip" _1g1r
-copy "Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Unl).zip" _1g1r
 copy "Chiller (USA) (Unl).zip" _1g1r
-copy "Chinese Checkers (Asia) (NTSC) (Unl).zip" _1g1r
-copy "Chinese KungFu (Asia) (Unl).zip" _1g1r
 copy "Chip 'n Dale - Rescue Rangers (USA).zip" _1g1r
 copy "Chip 'n Dale - Rescue Rangers 2 (USA).zip" _1g1r
 copy "Chip's Challenge (USA) (v0.924B) (Proto).zip" _1g1r
@@ -264,7 +246,6 @@ copy "Chubby Cherub (USA).zip" _1g1r
 copy "Chuck Yeager's Fighter Combat (USA) (Proto).zip" _1g1r
 copy "Chuugoku Janshi Story - Tonfuu (Japan).zip" _1g1r
 copy "Chuugoku Senseijutsu (Japan).zip" _1g1r
-copy "Chuugoku Taitei (Asia) (Unl).zip" _1g1r
 copy "Chuuka Taisen (Japan).zip" _1g1r
 copy "Circus Caper (USA).zip" _1g1r
 copy "Circus Charlie (Japan).zip" _1g1r
@@ -275,7 +256,6 @@ copy "Classic Concentration (USA).zip" _1g1r
 copy "Cliffhanger (USA).zip" _1g1r
 copy "Clu Clu Land (World).zip" _1g1r
 copy "Cobra Command (USA).zip" _1g1r
-copy "Cobra Mission (Asia) (Unl).zip" _1g1r
 copy "Cobra Triangle (USA).zip" _1g1r
 copy "Cocoron (Japan).zip" _1g1r
 copy "Code Name - Viper (USA).zip" _1g1r
@@ -288,18 +268,14 @@ copy "Conquest of the Crystal Palace (USA).zip" _1g1r
 copy "Contra (USA).zip" _1g1r
 copy "Contra Force (USA).zip" _1g1r
 copy "Cool World (USA).zip" _1g1r
-copy "Corre Benny (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Cosmic Epsilon (Japan).zip" _1g1r
 copy "Cosmic Wars (Japan).zip" _1g1r
 copy "Cosmo Police Galivan (Japan).zip" _1g1r
-copy "Cosmos Cop (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Cowboy Kid (USA).zip" _1g1r
 copy "Crackout (USA) (Proto).zip" _1g1r
 copy "Crash 'n' the Boys - Street Challenge (USA).zip" _1g1r
 copy "Crayon Shin-chan - Ora to Poi Poi (Japan).zip" _1g1r
 copy "Crazy Climber (Japan).zip" _1g1r
-copy "Creatom (Spain) (Gluk Video) (Unl).zip" _1g1r
-copy "Crime Busters (Brazil) (Unl).zip" _1g1r
 copy "Crisis Force (Japan).zip" _1g1r
 copy "CrossFire (USA) (Proto).zip" _1g1r
 copy "Crystal Mines (USA) (Unl).zip" _1g1r
@@ -314,7 +290,6 @@ copy "Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan).zip" _1g1r
 copy "Daisenryaku (Japan).zip" _1g1r
 copy "Daiva - Imperial of Nirsartia (Japan).zip" _1g1r
 copy "Dance Aerobics (USA).zip" _1g1r
-copy "Dancing Blocks (Asia) (PAL) (Unl).zip" _1g1r
 copy "Danny Sullivan's Indy Heat (USA).zip" _1g1r
 copy "Dark Lord (Japan).zip" _1g1r
 copy "Darkman (USA).zip" _1g1r
@@ -333,7 +308,6 @@ copy "De-Block (Japan).zip" _1g1r
 copy "Deadly Towers (USA).zip" _1g1r
 copy "Death Race (USA) (Unl).zip" _1g1r
 copy "Deathbots (USA) (Rev 1) (Unl).zip" _1g1r
-copy "Decathlon (Asia) (Unl).zip" _1g1r
 copy "Deep Dungeon III - Yuushi e no Tabi (Japan).zip" _1g1r
 copy "Deep Dungeon IV - Kuro no Youjutsushi (Japan).zip" _1g1r
 copy "Defender II (USA).zip" _1g1r
@@ -345,7 +319,6 @@ copy "Derby Stallion - Zenkoku Ban (Japan).zip" _1g1r
 copy "Desert Commander (USA).zip" _1g1r
 copy "Destination Earthstar (USA).zip" _1g1r
 copy "Destiny of an Emperor (USA).zip" _1g1r
-copy "Destructor, El (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Devil Man (Japan).zip" _1g1r
 copy "Devil World (Europe).zip" _1g1r
 copy "Dick Tracy (USA).zip" _1g1r
@@ -362,18 +335,15 @@ copy "Dokuganryuu Masamune (Japan).zip" _1g1r
 copy "Don Doko Don (Japan).zip" _1g1r
 copy "Don Doko Don 2 (Japan).zip" _1g1r
 copy "Donald Land (Japan).zip" _1g1r
-copy "Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Unl).zip" _1g1r
 copy "Donkey Kong (World) (Rev 1).zip" _1g1r
 copy "Donkey Kong 3 (World).zip" _1g1r
 copy "Donkey Kong Classics (USA, Europe).zip" _1g1r
 copy "Donkey Kong Jr. (World) (Rev 1).zip" _1g1r
 copy "Donkey Kong Jr. + Jr. Lesson (Japan).zip" _1g1r
 copy "Donkey Kong Jr. Math (USA, Europe).zip" _1g1r
-copy "Dooly Bravo Land (Korea) (Unl).zip" _1g1r
 copy "Door Door (Japan).zip" _1g1r
 copy "Doraemon (Japan) (Rev A).zip" _1g1r
 copy "Doraemon - Giga Zombie no Gyakushuu (Japan).zip" _1g1r
-copy "Dou Zhi Pin Pan - Wisdom Boy (Asia) (Unl).zip" _1g1r
 copy "Double Dare (USA).zip" _1g1r
 copy "Double Dragon (USA).zip" _1g1r
 copy "Double Dragon II - The Revenge (USA) (Rev 1).zip" _1g1r
@@ -406,7 +376,7 @@ copy "Dragon Warrior III (USA).zip" _1g1r
 copy "Dragon Warrior IV (USA).zip" _1g1r
 copy "Dragon Wars (USA) (Proto).zip" _1g1r
 copy "Dragon's Lair (USA).zip" _1g1r
-copy "Dreamworld Pogie (Unknown) (Proto 3) (2017) (Unl).zip" _1g1r
+copy "Dreamworld Pogie (Unknown) (Proto 3) (2017-xx-xx) (Unl).zip" _1g1r
 copy "Dropzone (Europe).zip" _1g1r
 copy "Druaga no Tou (Japan).zip" _1g1r
 copy "Duck Hunt (World).zip" _1g1r
@@ -424,7 +394,7 @@ copy "Eggerland - Meikyuu no Fukkatsu (Japan).zip" _1g1r
 copy "Egypt (Japan).zip" _1g1r
 copy "Elevator Action (USA).zip" _1g1r
 copy "Eliminator Boat Duel (USA).zip" _1g1r
-copy "Elite (USA) (Proto) [b].zip" _1g1r
+copy "Elite (USA) (Proto).zip" _1g1r
 copy "Elnark no Zaihou (Japan).zip" _1g1r
 copy "Elysion (Japan).zip" _1g1r
 copy "Emoyan no 10 Bai Pro Yakyuu (Japan).zip" _1g1r
@@ -460,7 +430,6 @@ copy "Family Feud (USA).zip" _1g1r
 copy "Family Jockey (Japan).zip" _1g1r
 copy "Family Mahjong (Japan) (Rev A).zip" _1g1r
 copy "Family Mahjong II - Shanghai e no Michi (Japan).zip" _1g1r
-copy "Family Noraebang (Korea) (Unl).zip" _1g1r
 copy "Family Quiz - 4-nin wa Rival (Japan).zip" _1g1r
 copy "Family School (Japan).zip" _1g1r
 copy "Family Tennis (Japan).zip" _1g1r
@@ -475,7 +444,6 @@ copy "Famista '91 (Japan).zip" _1g1r
 copy "Famista '92 (Japan).zip" _1g1r
 copy "Famista '93 (Japan).zip" _1g1r
 copy "Famista '94 (Japan).zip" _1g1r
-copy "Fan Kong Jing Ying (Asia) (Unl).zip" _1g1r
 copy "Fantastic Adventures of Dizzy, The (USA) (Unl).zip" _1g1r
 copy "Fantasy Zone (Japan) (Sunsoft).zip" _1g1r
 copy "Fantasy Zone (USA) (Tengen) (Unl).zip" _1g1r
@@ -483,21 +451,16 @@ copy "Fantasy Zone II - Opa-Opa no Namida (Japan).zip" _1g1r
 copy "Faria - A World of Mystery & Danger! (USA).zip" _1g1r
 copy "Faxanadu (USA) (Rev 1).zip" _1g1r
 copy "Felix the Cat (USA).zip" _1g1r
-copy "Feng Shen Bang (Asia) (Unl).zip" _1g1r
 copy "Ferrari Grand Prix Challenge (USA).zip" _1g1r
 copy "Fester's Quest (USA).zip" _1g1r
 copy "Field Combat (Japan).zip" _1g1r
-copy "Fighting Hero (Asia) (Unl).zip" _1g1r
-copy "Fighting Hero III (Asia) (Unl).zip" _1g1r
 copy "Fighting Road (Japan).zip" _1g1r
-copy "Final Combat (Asia) (NTSC) (Unl).zip" _1g1r
 copy "Final Fantasy (USA).zip" _1g1r
 copy "Final Fantasy I, II (Japan).zip" _1g1r
 copy "Final Fantasy II (USA) (Proto).zip" _1g1r
 copy "Final Fantasy III (Japan).zip" _1g1r
 copy "Final Lap (Japan).zip" _1g1r
 copy "Fire 'n Ice (USA).zip" _1g1r
-copy "Fire Dragon (Asia) (Unl).zip" _1g1r
 copy "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan).zip" _1g1r
 copy "Fire Emblem Gaiden (Japan).zip" _1g1r
 copy "Firehawk (USA) (Unl).zip" _1g1r
@@ -530,7 +493,6 @@ copy "Future Wars - Mirai Senshi Lios (Japan).zip" _1g1r
 copy "Fuzzical Fighter (Japan).zip" _1g1r
 copy "G.I. Joe - A Real American Hero (USA).zip" _1g1r
 copy "G.I. Joe - The Atlantis Factor (USA).zip" _1g1r
-copy "Gaiapolis (Asia) (Unl).zip" _1g1r
 copy "Galactic Crusader (USA) (Unl).zip" _1g1r
 copy "Galaga - Demons of Death (USA).zip" _1g1r
 copy "Galaxian (Japan) (Rev A).zip" _1g1r
@@ -538,7 +500,7 @@ copy "Galaxy 5000 - Racing in the 51st Century (USA).zip" _1g1r
 copy "Gambler Jiko Chuushinha (Japan).zip" _1g1r
 copy "Gambler Jiko Chuushinha 2 (Japan).zip" _1g1r
 copy "Game Designer Yousei Soft - Dezaemon (Japan).zip" _1g1r
-copy "Game Master Kid (Unknown) (Proto) (RAM) (Unl).zip" _1g1r
+copy "Game Genie (USA) (Unl).zip" _1g1r
 copy "Game Party (Japan).zip" _1g1r
 copy "Ganbare Goemon 2 (Japan).zip" _1g1r
 copy "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan) (Rev 1).zip" _1g1r
@@ -546,7 +508,6 @@ copy "Ganbare Goemon Gaiden 2 - Tenka no Zaihou (Japan).zip" _1g1r
 copy "Ganbare Goemon! - Karakuri Douchuu (Japan).zip" _1g1r
 copy "Ganbare Pennant Race! (Japan).zip" _1g1r
 copy "Ganso Saiyuuki - Super Monkey Daibouken (Japan).zip" _1g1r
-copy "Gardman (Asia) (Unl).zip" _1g1r
 copy "Garfield no Isshukan (Japan).zip" _1g1r
 copy "Gargoyle's Quest II (USA).zip" _1g1r
 copy "Garry Kitchen's Battletank (USA).zip" _1g1r
@@ -569,7 +530,6 @@ copy "Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen (Japan).zip" _1g1r
 copy "Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan).zip" _1g1r
 copy "Ginga Eiyuu Densetsu (Japan).zip" _1g1r
 copy "Ginga no Sannin (Japan).zip" _1g1r
-copy "Gluk the Thunder Warrior (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Goal! (USA).zip" _1g1r
 copy "Goal! Two (USA).zip" _1g1r
 copy "Godzilla - Monster of Monsters! (USA).zip" _1g1r
@@ -589,12 +549,10 @@ copy "Gotcha! - The Sport! (USA).zip" _1g1r
 copy "Gozonji - Yaji Kita Chin Douchuu (Japan).zip" _1g1r
 copy "Gradius (USA).zip" _1g1r
 copy "Gradius II (Japan).zip" _1g1r
-copy "Gran Aventura Submarina, La (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Grand Master (Japan).zip" _1g1r
 copy "Great Battle Cyber (Japan).zip" _1g1r
 copy "Great Deal (Japan).zip" _1g1r
 copy "Great Waldo Search, The (USA).zip" _1g1r
-copy "Great Wall, The (Asia) (PAL) (Unl).zip" _1g1r
 copy "Greg Norman's Golf Power (USA).zip" _1g1r
 copy "Gremlins 2 - The New Batch (USA).zip" _1g1r
 copy "Guardian Legend, The (USA).zip" _1g1r
@@ -609,11 +567,10 @@ copy "Gyruss (USA).zip" _1g1r
 copy "Haja no Fuuin (Japan).zip" _1g1r
 copy "Hammerin' Harry (Europe).zip" _1g1r
 copy "Hana no Star Kaidou (Japan).zip" _1g1r
-copy "Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl) [b].zip" _1g1r
+copy "Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl).zip" _1g1r
 copy "Hanjuku Hero (Japan).zip" _1g1r
 copy "Happily Ever After starring Snow White (USA) (Proto).zip" _1g1r
 copy "Happy Camper (USA) (Proto) (Unl) [b].zip" _1g1r
-copy "Happy Pairs (Asia) (PAL) (Unl).zip" _1g1r
 copy "Hard Drivin' (USA) (Proto) (Unl).zip" _1g1r
 copy "Harlem Globetrotters (USA).zip" _1g1r
 copy "Hatris (USA).zip" _1g1r
@@ -621,13 +578,11 @@ copy "Hayauchi Super Igo (Japan) (Rev 1).zip" _1g1r
 copy "Heavy Barrel (USA).zip" _1g1r
 copy "Heavy Shreddin' (USA).zip" _1g1r
 copy "Heisei Tensai Bakabon (Japan).zip" _1g1r
-copy "Hell Fighter (Asia) (PAL) (Unl).zip" _1g1r
 copy "Hello Kitty no Ohanabatake (Japan).zip" _1g1r
 copy "Hello Kitty World (Japan).zip" _1g1r
 copy "Heracles no Eikou - Toujin Makyou Den (Japan).zip" _1g1r
 copy "Heracles no Eikou II - Titan no Metsubou (Japan).zip" _1g1r
 copy "HeroQuest (USA) (Proto).zip" _1g1r
-copy "Hidden Chinese Chess - An Qi (Asia) (NTSC) (Unl).zip" _1g1r
 copy "High Speed (USA).zip" _1g1r
 copy "Hikari no Senshi Foton - The Ultimate Game on Planet Earth (Japan).zip" _1g1r
 copy "Hino Tori - Houou Hen - Gaou no Bouken (Japan).zip" _1g1r
@@ -637,7 +592,6 @@ copy "Hiryuu no Ken III - 5 Nin no Dragon (Japan).zip" _1g1r
 copy "Hiryuu no Ken Special - Fighting Wars (Japan).zip" _1g1r
 copy "Hissatsu Doujou Yaburi (Japan).zip" _1g1r
 copy "Hissatsu Shigoto Nin (Japan).zip" _1g1r
-copy "Hit Marmot (Asia) (Unl).zip" _1g1r
 copy "Hit the Ice (USA) (Proto).zip" _1g1r
 copy "Hogan's Alley (World).zip" _1g1r
 copy "Hokkaidou Rensa Satsujin - Okhotsk ni Kiyu (Japan).zip" _1g1r
@@ -648,7 +602,6 @@ copy "Hollywood Squares (USA).zip" _1g1r
 copy "Holy Diver (Japan).zip" _1g1r
 copy "Home Alone (USA) (Rev 1).zip" _1g1r
 copy "Home Alone 2 - Lost in New York (USA).zip" _1g1r
-copy "Honey Peach (Asia) (Unl).zip" _1g1r
 copy "Honoo no Toukyuuji - Dodge Danpei (Japan).zip" _1g1r
 copy "Honoo no Toukyuuji - Dodge Danpei 2 (Japan).zip" _1g1r
 copy "Honshougi - Naitou 9 Dan Shougi Hiden (Japan).zip" _1g1r
@@ -657,10 +610,9 @@ copy "Hoops (USA).zip" _1g1r
 copy "Hoshi o Miru Hito (Japan).zip" _1g1r
 copy "Hototogisu (Japan).zip" _1g1r
 copy "Hottarman no Chitei Tanken (Japan).zip" _1g1r
-copy "Huang Di (Asia) (Unl).zip" _1g1r
 copy "Hudson Hawk (USA).zip" _1g1r
-copy "Huge Insect (Asia) (Unl).zip" _1g1r
 copy "Hunt for Red October, The (USA) (Rev 1).zip" _1g1r
+copy "HVC Kensa Cassette Controller Test (Japan) (Test Program).zip" _1g1r
 copy "Hyakkiyagyou (Japan).zip" _1g1r
 copy "Hyaku no Sekai no Monogatari - The Tales on a Watery Wilderness (Japan).zip" _1g1r
 copy "Hydlide (USA).zip" _1g1r
@@ -672,6 +624,7 @@ copy "Ice Climber (USA, Europe, Korea).zip" _1g1r
 copy "Ice Hockey (USA).zip" _1g1r
 copy "Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev 1).zip" _1g1r
 copy "Ide Yousuke Meijin no Jissen Mahjong II (Japan).zip" _1g1r
+copy "Idemitsu - Space College - Kikenbutsu no Yasashii Butsuri to Kagaku (Japan).zip" _1g1r
 copy "Idol Hakkenden (Japan).zip" _1g1r
 copy "Igo - Kyuu Roban Taikyoku (Japan).zip" _1g1r
 copy "Igo Meikan (Japan).zip" _1g1r
@@ -713,7 +666,6 @@ copy "Jackpot (Australia) (Unl).zip" _1g1r
 copy "Jajamaru Gekimaden - Maboroshi no Kinmajou (Japan).zip" _1g1r
 copy "Jajamaru no Daibouken (Japan).zip" _1g1r
 copy "James Bond Jr (USA).zip" _1g1r
-copy "Janggun-ui Adeul (Korea) (Unl).zip" _1g1r
 copy "Jangou (Japan).zip" _1g1r
 copy "Jarinko Chie - Bakudan Musume no Shiawase Sagashi (Japan).zip" _1g1r
 copy "Jaws (USA).zip" _1g1r
@@ -731,14 +683,11 @@ copy "Jongbou (Japan).zip" _1g1r
 copy "Jordan vs Bird - One on One (USA).zip" _1g1r
 copy "Joshua & the Battle of Jericho (USA) (v6.0) (Unl).zip" _1g1r
 copy "Journey to Silius (USA).zip" _1g1r
-copy "Journey to the West (Asia) (Unl).zip" _1g1r
 copy "Joust (USA).zip" _1g1r
-copy "Jovial Race (Asia) (PAL) (Unl).zip" _1g1r
 copy "Joy Mech Fight (Japan).zip" _1g1r
 copy "Jumbo Ozaki no Hole in One Professional (Japan).zip" _1g1r
 copy "Jumpin' Kid - Jack to Mame no Ki Monogatari (Japan).zip" _1g1r
 copy "Jungle Book, The (USA).zip" _1g1r
-copy "Jurassic Boy (Asia) (Unl).zip" _1g1r
 copy "Jurassic Park (USA).zip" _1g1r
 copy "Just Breed (Japan).zip" _1g1r
 copy "Juuouki (Japan).zip" _1g1r
@@ -790,13 +739,11 @@ copy "Kirby's Adventure (USA) (Rev 1).zip" _1g1r
 copy "Kiteretsu Daihyakka (Japan).zip" _1g1r
 copy "Kitty's Catch (USA) (Proto) (Unl).zip" _1g1r
 copy "Kiwi Kraze - A Bird-Brained Adventure! (USA).zip" _1g1r
-copy "Kkachi-wa Norae Chingu (Korea) (Unl).zip" _1g1r
 copy "KlashBall (USA).zip" _1g1r
 copy "Klax (USA) (Unl).zip" _1g1r
 copy "Knight Rider (USA).zip" _1g1r
 copy "Konami Hyper Soccer (Europe).zip" _1g1r
 copy "Konami Wai Wai World (Japan).zip" _1g1r
-copy "Korean Igo (Korea) (Unl).zip" _1g1r
 copy "Kouryuu Densetsu Villgust Gaiden (Japan).zip" _1g1r
 copy "Koushien (Japan).zip" _1g1r
 copy "Krazy Kreatures (USA) (Rev A) (Unl).zip" _1g1r
@@ -835,13 +782,9 @@ copy "Legend of Robin Hood, The (USA) (Proto).zip" _1g1r
 copy "Legend of Zelda, The (USA) (Rev 1).zip" _1g1r
 copy "Legendary Wings (USA).zip" _1g1r
 copy "Legends of the Diamond - The Baseball Championship Game (USA).zip" _1g1r
-copy "Lei Dian II - Thunderbolt Fighting Plane (Asia) (Unl).zip" _1g1r
 copy "Lemmings (USA).zip" _1g1r
 copy "Lethal Weapon (USA).zip" _1g1r
 copy "Life Force (USA).zip" _1g1r
-copy "Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Unl).zip" _1g1r
-copy "Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Unl).zip" _1g1r
-copy "Lin Ze Xu Jin Yan (Asia) (Unl).zip" _1g1r
 copy "Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).zip" _1g1r
 copy "Lion King, The (Europe).zip" _1g1r
 copy "Lipple Island (Japan).zip" _1g1r
@@ -852,48 +795,38 @@ copy "Little Nemo - The Dream Master (USA).zip" _1g1r
 copy "Little Ninja Brothers (USA).zip" _1g1r
 copy "Little Red Hood (Australia) (Unl).zip" _1g1r
 copy "Little Samson (USA).zip" _1g1r
-copy "Locksmith (Asia) (PAL) (Unl).zip" _1g1r
 copy "Lode Runner (USA).zip" _1g1r
 copy "Lone Ranger, The (USA).zip" _1g1r
 copy "Loopz (USA).zip" _1g1r
 copy "Lost Word of Jenny - Ushinawareta Message (Japan).zip" _1g1r
 copy "Lot Lot (Japan).zip" _1g1r
 copy "Low G Man - The Low Gravity Man (USA).zip" _1g1r
-copy "Lucky Bingo 777 (Asia) (PAL) (Unl).zip" _1g1r
 copy "Lunar Pool (USA).zip" _1g1r
 copy "Lupin Sansei - Pandora no Isan (Japan).zip" _1g1r
 copy "M.C. Kids (USA).zip" _1g1r
 copy "M.U.L.E. (USA).zip" _1g1r
 copy "M.U.S.C.L.E. - Tag Team Match (USA).zip" _1g1r
+copy "M82 Game Selectable Working Product Display (Europe) (Demo) (Kiosk).zip" _1g1r
 copy "Mach Rider (Japan, USA) (Rev 1).zip" _1g1r
 copy "Mad Max (USA).zip" _1g1r
 copy "Madoola no Tsubasa (Japan).zip" _1g1r
 copy "Mafat Conspiracy, The (USA).zip" _1g1r
 copy "Magic Candle, The (Japan).zip" _1g1r
 copy "Magic Carpet 1001 (USA) (Unl).zip" _1g1r
-copy "Magic Cube (Asia) (PAL) (Unl).zip" _1g1r
 copy "Magic Darts (USA).zip" _1g1r
-copy "Magic Jewelry (Asia) (Unl).zip" _1g1r
-copy "Magic Jewelry 2 (Asia) (Unl).zip" _1g1r
 copy "Magic Johnson's Fast Break (USA).zip" _1g1r
-copy "Magic Kid Googoo (Korea) (Unl).zip" _1g1r
 copy "Magic of Scheherazade, The (USA).zip" _1g1r
-copy "Magical Mathematics (Asia) (NTSC) (Unl).zip" _1g1r
 copy "Magical Taruruuto-kun - Fantastic World!! (Japan) (Rev 1).zip" _1g1r
 copy "Magical Taruruuto-kun 2 - Mahou Daibouken (Japan).zip" _1g1r
 copy "Magician (USA).zip" _1g1r
 copy "Magmax (USA).zip" _1g1r
 copy "Magnum Kikiippatsu - Empire City - 1931 (Japan).zip" _1g1r
 copy "Maharaja (Japan).zip" _1g1r
-copy "Mahjang Companion (Asia) (Sachen) (Unl).zip" _1g1r
 copy "Mahjong (Japan) (Rev 2).zip" _1g1r
-copy "Mahjong Academy (Asia) (Unl).zip" _1g1r
 copy "Mahjong Club Nagatachou - Sousaisen (Japan).zip" _1g1r
 copy "Mahjong RPG Dora Dora Dora (Japan).zip" _1g1r
-copy "Mahjong Samit - Kabukicho Hen (Japan) (Unl).zip" _1g1r
 copy "Mahjong Taikai (Japan).zip" _1g1r
 copy "Mahjong Taisen (Japan).zip" _1g1r
-copy "Mahjong World, The - Ma Que Shi Jie (Asia) (NTSC) (Unl).zip" _1g1r
 copy "Mahou no Princess Minky Momo - Remember Dream (Japan).zip" _1g1r
 copy "Maison Ikkoku (Japan).zip" _1g1r
 copy "Majaventure - Mahjong Senki (Japan).zip" _1g1r
@@ -913,7 +846,6 @@ copy "Mario's Time Machine (USA).zip" _1g1r
 copy "Marusa no Onna (Japan).zip" _1g1r
 copy "Mashin Eiyuuden Wataru Gaiden (Japan).zip" _1g1r
 copy "Master Chu and the Drunkard Hu (USA) (Unl).zip" _1g1r
-copy "Master Shooter (Asia) (Unl).zip" _1g1r
 copy "Masuzoe Youichi - Asa Made Famicom (Japan).zip" _1g1r
 copy "Matsumoto Tooru no Kabushiki Hisshou Gaku (Japan).zip" _1g1r
 copy "Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II (Japan).zip" _1g1r
@@ -925,7 +857,6 @@ copy "Mega Man 3 (USA).zip" _1g1r
 copy "Mega Man 4 (USA) (Rev 1).zip" _1g1r
 copy "Mega Man 5 (USA).zip" _1g1r
 copy "Mega Man 6 (USA).zip" _1g1r
-copy "Mei Guo Fu Hao - American Man (Asia) (Unl).zip" _1g1r
 copy "Meiji Ishin (Japan).zip" _1g1r
 copy "Meikyuu no Tatsujin - Daimeiro (Japan).zip" _1g1r
 copy "Meimon! Daisan Yakyuubu (Japan).zip" _1g1r
@@ -934,10 +865,8 @@ copy "Meitantei Holmes - Kiri no London Satsujin Jiken (Japan).zip" _1g1r
 copy "Meitantei Holmes - M kara no Chousenjou (Japan).zip" _1g1r
 copy "Menace Beach (USA) (Unl).zip" _1g1r
 copy "Mendel Palace (USA).zip" _1g1r
-copy "Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (Asia) (Unl).zip" _1g1r
 copy "Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).zip" _1g1r
 copy "Metal Fighter (USA) (Unl).zip" _1g1r
-copy "Metal Force (Korea) (Unl).zip" _1g1r
 copy "Metal Gear (USA).zip" _1g1r
 copy "Metal Max (Japan).zip" _1g1r
 copy "Metal Slader Glory (Japan).zip" _1g1r
@@ -957,13 +886,14 @@ copy "MiG 29 - Soviet Fighter (USA) (Unl).zip" _1g1r
 copy "Might & Magic - Secret of the Inner Sanctum (USA).zip" _1g1r
 copy "Mighty Bomb Jack (USA).zip" _1g1r
 copy "Mighty Final Fight (USA).zip" _1g1r
-copy "Millionaire (Asia) (PAL) (Unl).zip" _1g1r
+copy "Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1).zip" _1g1r
 copy "Millipede (USA).zip" _1g1r
 copy "Milon's Secret Castle (USA).zip" _1g1r
 copy "Mindblower Pak (Australia) (Unl).zip" _1g1r
 copy "Mindseeker (Japan).zip" _1g1r
 copy "Minelvaton Saga - Ragon no Fukkatsu (Japan).zip" _1g1r
-copy "Mini Putt (Japan).zip" _1g1r
+copy "Mini-Putt (Japan).zip" _1g1r
+copy "Minna no Taabou no Nakayoshi Daisakusen (Japan) (Rev 1).zip" _1g1r
 copy "Miracle Piano Teaching System, The (USA).zip" _1g1r
 copy "Miracle Ropit's - 2100 Nen no Daibouken (Japan).zip" _1g1r
 copy "Mirai Shinwa Jarvas (Japan).zip" _1g1r
@@ -984,7 +914,6 @@ copy "Monster in My Pocket (USA).zip" _1g1r
 copy "Monster Maker - 7 Tsu no Hihou (Japan).zip" _1g1r
 copy "Monster Party (USA).zip" _1g1r
 copy "Monster Truck Rally (USA).zip" _1g1r
-copy "Monstruo de los Globos, El (Spain) (Rev 1) (Gluk Video) (Unl).zip" _1g1r
 copy "Moon Crystal (Japan).zip" _1g1r
 copy "Moon Ranger (USA) (Unl).zip" _1g1r
 copy "Morita Shougi (Japan).zip" _1g1r
@@ -1025,6 +954,9 @@ copy "NES Open Tournament Golf (USA).zip" _1g1r
 copy "NES Play Action Football (USA).zip" _1g1r
 copy "New Ghostbusters II (USA) (Proto).zip" _1g1r
 copy "NFL (USA).zip" _1g1r
+copy "NHK Gakuen - Space School - Sansu 5 Nen (Jou) (Japan).zip" _1g1r
+copy "NHK Gakuen - Space School - Sansu 6 Nen (Ge) (Japan).zip" _1g1r
+copy "NHK Gakuen - Space School - Sansu 6 Nen (Jou) (Japan).zip" _1g1r
 copy "Nichibutsu Mahjong III - Mahjong G Men (Japan).zip" _1g1r
 copy "Nigel Mansell's World Championship Racing (USA).zip" _1g1r
 copy "Nightmare on Elm Street, A (USA).zip" _1g1r
@@ -1041,7 +973,13 @@ copy "Ninja Kid (USA).zip" _1g1r
 copy "Ninja-kun - Ashura no Shou (Japan).zip" _1g1r
 copy "Ninja-kun - Majou no Bouken (Japan) (Rev 1).zip" _1g1r
 copy "Ninjara Hoi! (Japan).zip" _1g1r
+copy "Nintendo - NTF2 System Cartridge (USA).zip" _1g1r
+copy "Nintendo - NTF2 Test Cartridge (NES Test) (USA) (Rev 1) (Test Program).zip" _1g1r
 copy "Nintendo World Championships 1990 (USA) (Competition Cart).zip" _1g1r
+copy "Nintendo World Class Service - Control Deck Test Cartridge (USA) (Test Program).zip" _1g1r
+copy "Nintendo World Class Service - Joystick Test Cartridge (USA) (Test Program).zip" _1g1r
+copy "Nintendo World Class Service - Port Test Cartridge (USA) (Test Program).zip" _1g1r
+copy "Nintendo World Class Service - Power Pad Test Cartridge (USA) (Test Program).zip" _1g1r
 copy "Nintendo World Cup (USA).zip" _1g1r
 copy "Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (Japan).zip" _1g1r
 copy "Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (Japan).zip" _1g1r
@@ -1056,7 +994,6 @@ copy "Oeka Kids - Anpanman no Hiragana Daisuki (Japan).zip" _1g1r
 copy "Oeka Kids - Anpanman to Oekaki Shiyou!! (Japan).zip" _1g1r
 copy "Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan).zip" _1g1r
 copy "Okkotoshi Puzzle - Tonjan! (Japan).zip" _1g1r
-copy "Olympic IQ (Asia) (PAL) (Unl).zip" _1g1r
 copy "Onyanko Town (Japan).zip" _1g1r
 copy "Operation Secret Storm (USA) (Unl).zip" _1g1r
 copy "Operation Wolf (USA).zip" _1g1r
@@ -1085,6 +1022,7 @@ copy "Pachio-kun 5 (Japan).zip" _1g1r
 copy "Palamedes (USA).zip" _1g1r
 copy "Palamedes II - Star Twinkle, Hoshi no Mabataki (Japan).zip" _1g1r
 copy "Panic Restaurant (USA).zip" _1g1r
+copy "Panic! Dizzy (Europe) (Proto).zip" _1g1r
 copy "Paperboy (USA).zip" _1g1r
 copy "Paperboy 2 (USA).zip" _1g1r
 copy "Parallel World (Japan).zip" _1g1r
@@ -1113,16 +1051,9 @@ copy "Pizza Pop! (Japan).zip" _1g1r
 copy "Plasma Ball (Japan).zip" _1g1r
 copy "Platoon (USA) (Rev 1).zip" _1g1r
 copy "Pocket Zaurus - Juu Ouken no Nazo (Japan).zip" _1g1r
-copy "Poke Block (Asia) (Unl).zip" _1g1r
-copy "Poker II (Asia) (Unl).zip" _1g1r
-copy "Poker III (Asia) (Unl).zip" _1g1r
-copy "Poker Mahjong - Pu Ke Mao Que (Asia) (Unl).zip" _1g1r
-copy "Policeman (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Pooyan (Japan).zip" _1g1r
 copy "Popeye (World) (Rev 1).zip" _1g1r
 copy "Popeye no Eigo Asobi (Japan).zip" _1g1r
-copy "Popo Team (Asia) (Unl).zip" _1g1r
-copy "Porter (Asia) (Unl).zip" _1g1r
 copy "Portopia Renzoku Satsujin Jiken (Japan).zip" _1g1r
 copy "Power Blade (USA).zip" _1g1r
 copy "Power Blade 2 (USA).zip" _1g1r
@@ -1133,13 +1064,13 @@ copy "Predator (USA).zip" _1g1r
 copy "President no Sentaku (Japan).zip" _1g1r
 copy "Prince of Persia (USA).zip" _1g1r
 copy "Princess Tomato in the Salad Kingdom (USA).zip" _1g1r
+copy "Pro Action Replay (Europe) (v1.2) (Cart Present) (Unl).zip" _1g1r
 copy "Pro Sport Hockey (USA).zip" _1g1r
 copy "Pro Wrestling (USA) (Rev 1).zip" _1g1r
 copy "Pro Yakyuu - Family Stadium '87 (Japan).zip" _1g1r
 copy "Pro Yakyuu - Family Stadium '88 (Japan).zip" _1g1r
 copy "Pro Yakyuu Satsujin Jiken! (Japan).zip" _1g1r
 copy "Project Q (Japan).zip" _1g1r
-copy "Punch-Out!! (USA).zip" _1g1r
 copy "Punisher, The (USA).zip" _1g1r
 copy "Puss 'n Boots - Pero's Great Adventure (USA).zip" _1g1r
 copy "Puyo Puyo (Japan).zip" _1g1r
@@ -1148,10 +1079,7 @@ copy "Puzzle (USA) (Unl).zip" _1g1r
 copy "Puzznic (USA).zip" _1g1r
 copy "Pyokotan no Daimeiro (Japan).zip" _1g1r
 copy "Pyramid (USA) (Rev 1) (Unl).zip" _1g1r
-copy "Pyramid II (Asia) (PAL) (Unl).zip" _1g1r
-copy "Q Boy (Asia) (Unl).zip" _1g1r
 copy "Q-bert (USA).zip" _1g1r
-copy "Qi Wang - Chinese Chess (Asia) (Unl).zip" _1g1r
 copy "QIX (USA).zip" _1g1r
 copy "Quarter Back Scramble (Japan).zip" _1g1r
 copy "Quarth (Japan).zip" _1g1r
@@ -1171,7 +1099,6 @@ copy "Rad Racer (USA).zip" _1g1r
 copy "Rad Racer II (USA).zip" _1g1r
 copy "Rad Racket - Deluxe Tennis II (USA) (Unl).zip" _1g1r
 copy "Radac Tailor-Made (Japan).zip" _1g1r
-copy "Radia Senki - Reimei Hen (Japan).zip" _1g1r
 copy "Raid 2020 (USA) (Unl).zip" _1g1r
 copy "Raid on Bungeling Bay (USA).zip" _1g1r
 copy "Rainbow Islands (USA).zip" _1g1r
@@ -1200,11 +1127,9 @@ copy "RoboCop 3 (USA).zip" _1g1r
 copy "RoboCop versus The Terminator (USA) (Proto).zip" _1g1r
 copy "Robodemons (USA) (Unl).zip" _1g1r
 copy "Rock 'n' Ball (USA).zip" _1g1r
-copy "Rockball (Asia) (Unl).zip" _1g1r
 copy "Rocket Ranger (USA).zip" _1g1r
 copy "Rocketeer, The (USA).zip" _1g1r
 copy "Rockin' Kats (USA).zip" _1g1r
-copy "Rocman X (Asia) (Unl).zip" _1g1r
 copy "Rodland (Europe).zip" _1g1r
 copy "Roger Clemens' MVP Baseball (USA).zip" _1g1r
 copy "Rokudenashi Blues (Japan).zip" _1g1r
@@ -1222,17 +1147,15 @@ copy "Rumble Station - 15 in 1 (USA) (Unl).zip" _1g1r
 copy "Rush'n Attack (USA).zip" _1g1r
 copy "Rygar (USA) (Rev 1).zip" _1g1r
 copy "S.C.A.T. - Special Cybernetic Attack Team (USA).zip" _1g1r
-copy "Saint Seiya - Ougon Densetsu (Japan).zip" _1g1r
 copy "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan).zip" _1g1r
 copy "Saiyuuki World (Japan).zip" _1g1r
 copy "Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (Japan).zip" _1g1r
 copy "Samsara Naga (Japan).zip" _1g1r
-copy "San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Unl).zip" _1g1r
-copy "San Guo Zhong Lie Zhuan (Asia) (Unl).zip" _1g1r
 copy "Sanada Juu Yuushi (Japan).zip" _1g1r
 copy "Sangokushi - Chuugen no Hasha (Japan).zip" _1g1r
 copy "Sangokushi II - Haou no Tairiku (Japan).zip" _1g1r
-copy "Sanma no Mei Tantei (Japan).zip" _1g1r
+copy "Sanguo Chunqiu - Sichuan Sheng (Asia) (Unl).zip" _1g1r
+copy "Sanma no Meitantei (Japan).zip" _1g1r
 copy "Sanrio Carnival (Japan).zip" _1g1r
 copy "Sanrio Carnival 2 (Japan).zip" _1g1r
 copy "Sanrio Cup - Pon Pon Volley (Japan).zip" _1g1r
@@ -1275,7 +1198,6 @@ copy "Shaffle Fight (Japan).zip" _1g1r
 copy "Shanghai (Japan).zip" _1g1r
 copy "Shanghai II (Japan).zip" _1g1r
 copy "Shatterhand (USA).zip" _1g1r
-copy "Sheng Huo Lie Zhuan (Asia) (Unl).zip" _1g1r
 copy "Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan).zip" _1g1r
 copy "Shikinjou (Japan).zip" _1g1r
 copy "Shin 4 Nin Uchi Mahjong - Yakuman Tengoku (Japan).zip" _1g1r
@@ -1293,20 +1215,17 @@ copy "Shougi Meikan '92 (Japan).zip" _1g1r
 copy "Shougi Meikan '93 (Japan).zip" _1g1r
 copy "Shoukoushi Ceddie (Japan).zip" _1g1r
 copy "Shounen Ashibe - Nepal Daibouken no Maki (Japan).zip" _1g1r
-copy "Shuang Xiang Pao (Asia) (Unl).zip" _1g1r
 copy "Shufflepuck Cafe (Japan).zip" _1g1r
 copy "Side Pocket (USA).zip" _1g1r
 copy "Silent Assault (USA) (Unl).zip" _1g1r
 copy "Silent Service (USA) (Rev 1).zip" _1g1r
 copy "Silk Worm (USA).zip" _1g1r
 copy "Silva Saga (Japan).zip" _1g1r
-copy "Silver Eagle (Asia) (PAL) (Unl).zip" _1g1r
 copy "Silver Surfer (USA).zip" _1g1r
 copy "SimCity (USA) (Proto).zip" _1g1r
 copy "Simpsons, The - Bart vs. the Space Mutants (USA) (Rev 1).zip" _1g1r
 copy "Simpsons, The - Bart vs. the World (USA).zip" _1g1r
 copy "Simpsons, The - Bartman Meets Radioactive Man (USA).zip" _1g1r
-copy "Skate Boy (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Skate or Die (USA).zip" _1g1r
 copy "Skate or Die 2 - The Search for Double Trouble (USA).zip" _1g1r
 copy "Ski or Die (USA).zip" _1g1r
@@ -1362,15 +1281,12 @@ copy "Starship Hector (USA).zip" _1g1r
 copy "StarTropics (USA).zip" _1g1r
 copy "Stealth ATF (USA).zip" _1g1r
 copy "Sted - Iseki Wakusei no Yabou (Japan).zip" _1g1r
+copy "Steins;Gate (USA) (Nintendo Switch).zip" _1g1r
 copy "Stick Hunter - Exciting Ice Hockey (Japan).zip" _1g1r
 copy "Stinger (USA).zip" _1g1r
-copy "Strategist (Asia) (NTSC) (Unl).zip" _1g1r
 copy "Street Cop (USA).zip" _1g1r
 copy "Street Fighter 2010 - The Final Fight (USA).zip" _1g1r
-copy "Street Heroes (Asia) (Unl).zip" _1g1r
 copy "Strider (USA).zip" _1g1r
-copy "Strike Wolf (Asia) (Unl).zip" _1g1r
-copy "Study Box (Japan).zip" _1g1r
 copy "Stunt Kids (USA) (Unl).zip" _1g1r
 copy "Sugoro Quest - Dice no Senshitachi (Japan).zip" _1g1r
 copy "Sukeban Deka III (Japan).zip" _1g1r
@@ -1385,7 +1301,7 @@ copy "Super Dodge Ball (USA).zip" _1g1r
 copy "Super Dyna'mix Badminton (Japan).zip" _1g1r
 copy "Super Glove Ball (USA).zip" _1g1r
 copy "Super Jeopardy! (USA).zip" _1g1r
-copy "Super Mario Bros. (World).zip" _1g1r
+copy "Super Mario Bros. (World) (HVC-SM).zip" _1g1r
 copy "Super Mario Bros. + Duck Hunt (USA).zip" _1g1r
 copy "Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev 1).zip" _1g1r
 copy "Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev 1).zip" _1g1r
@@ -1393,8 +1309,6 @@ copy "Super Mario Bros. 2 (USA) (Rev 1).zip" _1g1r
 copy "Super Mario Bros. 3 (USA) (Rev 1).zip" _1g1r
 copy "Super Mogura Tataki!! - Pokkun Mogurar (Japan).zip" _1g1r
 copy "Super Momotarou Dentetsu (Japan).zip" _1g1r
-copy "Super Pang (Asia) (PAL) (Unl).zip" _1g1r
-copy "Super Pang II (Asia) (Unl).zip" _1g1r
 copy "Super Pinball (Japan).zip" _1g1r
 copy "Super Pitfall (USA).zip" _1g1r
 copy "Super Real Baseball '88 (Japan).zip" _1g1r
@@ -1414,14 +1328,11 @@ copy "SWAT - Special Weapons and Tactics (Japan).zip" _1g1r
 copy "Sweet Home (Japan).zip" _1g1r
 copy "Sword Master (USA).zip" _1g1r
 copy "Swords and Serpents (USA).zip" _1g1r
-copy "Taan Hak Fung Wan - King Tank (Asia) (Unl).zip" _1g1r
 copy "Taboo - The Sixth Sense (USA) (Rev 1).zip" _1g1r
 copy "Tag Team Wrestling (USA).zip" _1g1r
 copy "Tagin' Dragon (USA) (Unl).zip" _1g1r
 copy "Taito Chase H.Q. (Japan).zip" _1g1r
 copy "Taito Grand Prix - Eikou e no License (Japan).zip" _1g1r
-copy "Taiwan Mahjong - Tai Wan Ma Que 16 (Asia) (Unl).zip" _1g1r
-copy "Taiwan Mahjong 2 (Asia) (Unl).zip" _1g1r
 copy "Taiyou no Yuusha - Fighbird (Japan).zip" _1g1r
 copy "Takahashi Meijin no Bouken-jima IV (Japan).zip" _1g1r
 copy "Takahashi Meijin no Bugutte Honey (Japan).zip" _1g1r
@@ -1432,13 +1343,11 @@ copy "TaleSpin (USA).zip" _1g1r
 copy "Tamura Koushou Mahjong Seminar (Japan).zip" _1g1r
 copy "Tanigawa Kouji no Shougi Shinan II (Japan).zip" _1g1r
 copy "Tanigawa Kouji no Shougi Shinan III (Japan).zip" _1g1r
-copy "Tanque (Spain) (Gluk Video) (Unl).zip" _1g1r
 copy "Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (Japan).zip" _1g1r
 copy "Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (Japan).zip" _1g1r
 copy "Tao (Japan).zip" _1g1r
 copy "Target - Renegade (USA).zip" _1g1r
 copy "Taro's Quest (USA) (Proto).zip" _1g1r
-copy "Tasac (Asia) (Unl).zip" _1g1r
 copy "Tashiro Masashi no Princess ga Ippai (Japan).zip" _1g1r
 copy "Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan).zip" _1g1r
 copy "Tatakae!! Rahmen Man - Sakuretsu Choujin 102 Gei (Japan).zip" _1g1r
@@ -1527,6 +1436,7 @@ copy "Twin Eagle (USA).zip" _1g1r
 copy "TwinBee (Japan).zip" _1g1r
 copy "TwinBee 3 - Poko Poko Daimaou (Japan).zip" _1g1r
 copy "U-Force Power Games (USA) (Proto 1).zip" _1g1r
+copy "U-Force Test (USA) (Test Program).zip" _1g1r
 copy "Uchuu Keibitai SDF (Japan).zip" _1g1r
 copy "Uchuusen Cosmo Carrier (Japan).zip" _1g1r
 copy "Ufouria - The Saga (Europe).zip" _1g1r
@@ -1543,7 +1453,6 @@ copy "Ultraman Club 3 - Matamata Shutsugeki!! Ultra Kyoudai (Japan).zip" _1g1r
 copy "Uncanny X-Men, The (USA).zip" _1g1r
 copy "Uncharted Waters (USA).zip" _1g1r
 copy "Uninvited (USA).zip" _1g1r
-copy "Universe Soldiers, The (Asia) (Unl).zip" _1g1r
 copy "Untouchables, The (USA) (Rev 2).zip" _1g1r
 copy "Urban Champion (World).zip" _1g1r
 copy "Urusei Yatsura - Lum no Wedding Bell (Japan).zip" _1g1r
@@ -1565,12 +1474,8 @@ copy "Wagyan Land (Japan).zip" _1g1r
 copy "Wagyan Land 2 (Japan).zip" _1g1r
 copy "Wagyan Land 3 (Japan).zip" _1g1r
 copy "Wai Wai World 2 - SOS!! Paseri Jou (Japan).zip" _1g1r
-copy "Wai Xing Zhan Shi (Asia) (Unl).zip" _1g1r
-copy "Wait and See! (Russia) (Unl).zip" _1g1r
 copy "Wall Street Kid (USA).zip" _1g1r
 copy "Wally Bear and the No! Gang (USA) (Unl).zip" _1g1r
-copy "Wang Zi Fu Chou Ji (Asia) (Unl).zip" _1g1r
-copy "War in the Gulf ~ Guerra del Golfo, La (Brazil, Spain) (CCE, Gluk Video) (Unl).zip" _1g1r
 copy "War on Wheels (USA) (Proto).zip" _1g1r
 copy "Wario's Woods (USA).zip" _1g1r
 copy "Warpman (Japan).zip" _1g1r
@@ -1587,7 +1492,6 @@ copy "Where's Waldo (USA).zip" _1g1r
 copy "Who Framed Roger Rabbit (USA).zip" _1g1r
 copy "Whomp 'Em (USA).zip" _1g1r
 copy "Widget (USA).zip" _1g1r
-copy "Wild Ball (Asia) (Unl).zip" _1g1r
 copy "Wild Gunman (World) (Rev 1).zip" _1g1r
 copy "Willow (USA).zip" _1g1r
 copy "Wily & Right no Rockboard - That's Paradise (Japan).zip" _1g1r
@@ -1606,7 +1510,6 @@ copy "World Boxing (Japan).zip" _1g1r
 copy "World Champ (USA).zip" _1g1r
 copy "World Class Track Meet (USA) (Rev 1).zip" _1g1r
 copy "World Games (USA).zip" _1g1r
-copy "World of Card Games, The (Asia) (Unl).zip" _1g1r
 copy "Wrath of the Black Manta (USA) (Rev 1).zip" _1g1r
 copy "Wrecking Crew (World).zip" _1g1r
 copy "Wurm - Journey to the Center of the Earth! (USA).zip" _1g1r
@@ -1617,12 +1520,10 @@ copy "WWF Wrestlemania Challenge (USA).zip" _1g1r
 copy "Xenophobe (USA).zip" _1g1r
 copy "Xevious - The Avenger (USA).zip" _1g1r
 copy "Xexyz (USA).zip" _1g1r
-copy "Xiao Ma Li (Asia) (Nei-Hu) (Unl).zip" _1g1r
 copy "Xybots (USA) (Proto) (Unl).zip" _1g1r
 copy "Yamamura Misa Suspense Series - Kyoto Zai-Tech Satsujin Jiken (Japan).zip" _1g1r
 copy "Yasuda Fire & Marine - Safety Rally (Japan).zip" _1g1r
 copy "Yie Ar Kung-Fu (Japan) (Rev 1.4).zip" _1g1r
-copy "Ying Lie Qun Xia Zhuan (Asia) (Unl).zip" _1g1r
 copy "Yo! Noid (USA).zip" _1g1r
 copy "Yoshi (USA).zip" _1g1r
 copy "Yoshi's Cookie (USA).zip" _1g1r
@@ -1636,9 +1537,6 @@ copy "Yume Penguin Monogatari (Japan).zip" _1g1r
 copy "Zanac (USA).zip" _1g1r
 copy "Zelda II - The Adventure of Link (USA).zip" _1g1r
 copy "Zen - Intergalactic Ninja (USA).zip" _1g1r
-copy "Zhen Ben Xi You Ji (Asia) (Unl).zip" _1g1r
-copy "Zhi Li Xiao Zhuang Yuan (Asia) (Unl).zip" _1g1r
-copy "Zhuang Qiu Chuan Shuo Hua Zhuang II - Ball Story (Asia) (Unl).zip" _1g1r
 copy "Zippy Race (Japan).zip" _1g1r
 copy "Zoda's Revenge - StarTropics II (USA).zip" _1g1r
 copy "Zoids - Chuuou Tairiku no Tatakai (Japan) (Rev 1).zip" _1g1r
