@@ -97,7 +97,6 @@ copy "Lunar Legend (USA).zip" _aknf
 copy "Magical Vacation (Japan).zip" _aknf
 copy "Mario & Luigi - Superstar Saga (USA).zip" _aknf
 copy "Mario Golf - Advance Tour (USA).zip" _aknf
-copy "Mario Kart - Double Dash!! (USA) (Fire Emblem GBA - Bonus Items).zip" _aknf
 copy "Mario Kart - Super Circuit (USA).zip" _aknf
 copy "Mario Party Advance (USA).zip" _aknf
 copy "Mario Pinball Land (USA, Australia).zip" _aknf
