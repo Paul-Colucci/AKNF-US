@@ -46,7 +46,6 @@ copy "Dynamite Headdy (Brazil).zip" _aknf
 copy "Ecco - The Tides of Time (Brazil).zip" _aknf
 copy "Ecco the Dolphin (Europe, Brazil).zip" _aknf
 copy "Enduro Racer ~ Super Cross (USA, Europe, Brazil).zip" _aknf
-copy "Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).zip" _aknf
 copy "Fantastic Dizzy (Europe) (En,Fr,De,Es,It).zip" _aknf
 copy "Fantasy Zone (World).zip" _aknf
 copy "Fantasy Zone II (USA, Europe, Brazil).zip" _aknf
